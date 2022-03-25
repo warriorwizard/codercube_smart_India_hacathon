@@ -1,0 +1,9 @@
+An AI/ML based solution for flagging of false information related to the Union Government 
+
+We are creating a model that will collect the data from governmnet sources and make a database and will search various other social media handles to find similar news and after finding the news , the generated model will analyse the data and it found something is wrong and the data is not factually correct then it will generate a red flag and a alert will be generated and the message will be forwarded to the admin along with why it is wrong .
+
+In addition to all this we will create a website and all of our data will be added to that website to show relevant information .
+
+
+
+We are suggesting a model that will compare goverment ordered news or annoucements and various press released with other news and online portal sites and flagging if the news information is correct or not . We are likely to develop a model that will scrap the data from goverment's social media handles and compare it will other circulating news and find whether they are correct or not
